@@ -1,0 +1,13 @@
+# OS / tooling
+.DS_Store
+__pycache__/
+*.pyc
+.mypy_cache/
+.claude/settings.local.json
+
+# Local research work (experiments, measurement data, design notes, session guides): not published
+experiments/
+skills-archive/
+KPI.md
+HANDOFF.md
+CLAUDE.md

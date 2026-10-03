@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Agent", "Artifact", "ListAgents", "ReportFindings", "ScheduleWakeup", "Skill", "ToolSearch", "Workflow",
+      "NotebookEdit", "WebFetch", "WebSearch", "CronCreate", "CronDelete", "CronList", "DesignSync",
+      "EnterWorktree", "ExitWorktree", "Monitor", "PushNotification", "RemoteTrigger", "SendMessage",
+      "TaskOutput", "TaskStop"
+    ]
+  }
+}
